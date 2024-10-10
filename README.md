@@ -1,15 +1,15 @@
-- 👋 Hi, I’m @ernhollam
-- 🧶 I’m interested in crochet, team sports but also coding. 
-- 🌱 I’m currently learning how to code in Java. I've learnt it during my college years when I was attending my engineering school but I've worked only with Matlab during my 5+ years experience in the automotive industry and aeronotics.
-- 📫 How to reach me : You can find me here or on LinkedIn, I usually answer within one day.
-- 👀 Here's an overview of the projects in the OpenClassrooms "Java backend developer" path:
+# Hi, I’m Ernholla!
+- 🧶 I’m interested in crochet, team sports but also coding.
+- 🌱 I attented an Engineering school in Nancy (France) and majored in automated embedded systems engineering.
+I worked with Matlab during my 5+ years experience in the automotive industry and aeronotics.  
+After the Covid crisis, I did an apprenticeship from September 2021 to September 2023 to learn how to code web applications with Java.
+- :sparkles: Here's an overview of my favorite project from the OpenClassrooms "Java backend developer" path:  
+  Design a database from scratch, generate the database schema, implement UML diagramm, use pattern repository and create html templates using Thymeleaf ─ https://github.com/ernhollam/PayMyBuddy
 
 
-| Summary                                          | Project name     | Description                                                                                                                                                                                                                                                                                         | Repository                                   |
-|--------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Create your first app with SpringBoot            | SafetyNet Alerts | Introduction to API REST development. Learn how to create your own JSON file and use it as a database. This application allows emergency services systems anticipating hazard situations. Indeed, SafetyNet Alerts provides real-time information about inhabitants and fire stations in your city. | https://github.com/ernhollam/SafetyNetAlerts |
-| Design a web application from scratch using Java | Pay My Buddy     | Design a database from scratch, generate the database schema, implement UML diagramm, use pattern repository and create html templates using Thymeleaf.                                                                                                                                                                                                                           | https://github.com/ernhollam/PayMyBuddy      |
-| Develop a microservices solution for your customer                    | Mediscreen          | An application to learn about microservices, how they interact and also how to manage both a SQL database as well as a NoSQL database| https://github.com/ernhollam/Mediscreen           |
+- :bomb: After the my apprenticeship at Lomaco (Figeac), I found a new position at APEX Solutions where we are building tools in Python/C++ to study the effects of blasts in urban areas.
+- :computer: I'm still developping tools in Python or Java for my personnal use.
+- :mailbox_with_mail: How to reach me : You can find me on LinkedIn, I usually answer within one day.
 
 <!---
 ernhollam/ernhollam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
